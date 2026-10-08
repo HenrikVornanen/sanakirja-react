@@ -27,7 +27,7 @@ The React app runs at `http://localhost:5173/` and the REST API runs on port 300
 
 
 ### Searching for a word (cat)
-<img width="391" height="210" alt="image" src="https://github.com/user-attachments/assets/13ae363f-9455-41a8-a20c-e7a2856492f6" 
+<img width="391" height="210" alt="image" src="https://github.com/user-attachments/assets/13ae363f-9455-41a8-a20c-e7a2856492f6"  />
 
 ### Word (cat) saved in the backend file
 <img width="230" height="138" alt="image" src="https://github.com/user-attachments/assets/9713877b-5786-4bae-9a1f-6ba7523e0b74" />
